@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VectorShift%20/static/css/main.047401a6.css",
+    "main.js": "/VectorShift%20/static/js/main.3d9e3fb9.js",
+    "static/media/logical.jpg": "/VectorShift%20/static/media/logical.21dd66937e7038859d4d.jpg",
+    "static/media/chart.png": "/VectorShift%20/static/media/chart.5499453a50d2984a051c.png",
+    "static/media/api.jpg": "/VectorShift%20/static/media/api.e18130aba175959e3d36.jpg",
+    "static/media/data.png": "/VectorShift%20/static/media/data.3288509b7ca646aee53a.png",
+    "static/media/llm.png": "/VectorShift%20/static/media/llm.026c94fa1407d4328ea6.png",
+    "static/media/maths.webp": "/VectorShift%20/static/media/maths.5c4f4ac052bcf6b52b88.webp",
+    "index.html": "/VectorShift%20/index.html",
+    "main.047401a6.css.map": "/VectorShift%20/static/css/main.047401a6.css.map",
+    "main.3d9e3fb9.js.map": "/VectorShift%20/static/js/main.3d9e3fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047401a6.css",
+    "static/js/main.3d9e3fb9.js"
+  ]
+}
